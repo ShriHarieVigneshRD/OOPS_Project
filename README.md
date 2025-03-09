@@ -17,9 +17,9 @@ The Food Ordering System is designed to streamline hotel operations by providing
 ## Flowchart Representation
 A flowchart is used to represent the interactions between customers, hotel owners, and the system.
 
-![Food Ordering System Flowchart](image.png)
+![Food Ordering System Flowchart](Screenshot 2025-03-09 095622.png)
 
-![Food Ordering System Flowchart](image.png)
+![Food Ordering System Flowchart](Screenshot 2025-03-09 095759.png)
 
 ## Features
 ### 1. File Handling
