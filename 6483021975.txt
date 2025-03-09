@@ -1,0 +1,5 @@
+Nz3vKp8w NonVeg 7 10 12 14 16 17 19 22 The Amber Palace
+1 100 NonVeg maincourse breakfast Pancakes
+2 250 Veg maincourse lunch Grilled Veggie and Hummus Wrap
+3 125 Veg snacks snacks Pasta
+4 150 NonVegmaincourse dinnner Grilled Chicken

@@ -1,0 +1,41 @@
+Hw3lXp7b Veg 6 11 11 15 0 0 18 23 Sangeetha
+1 150 Veg maincourse breakfast Idli
+2 250 Veg maincourse lunch Veg Meals
+3 300 Veg starter dinner Gobi Manchurian cum 65
+4 60 Veg maincourse breakfast Pongal
+5 120 Veg maincourse lunch Sambar Rice
+6 180 Veg snacks snacks Aloo Samosa
+7 90 Veg snacks snacks Paneer Pakora
+8 200 Veg maincourse dinner Paneer Butter Masala with Naan
+9 80 Veg starter lunch Chilli Paneer
+10 70 Veg maincourse breakfast Poori with Aloo Curry
+11 140 Veg maincourse lunch Veg Fried Rice
+12 110 Veg maincourse dinner Palak Paneer with Roti
+13 75 Veg snacks snacks Masala Vada
+14 50 Veg dessert lunch Gulab Jamun
+15 85 Veg dessert dinner Gajar Halwa
+16 100 Veg dessert dinner Rasmalai
+17 130 Veg maincourse lunch Paneer Tikka Masala
+18 90 Veg starter dinner Hara Bhara Kebab
+19 70 Veg snacks snacks Onion Pakoda
+20 65 Veg maincourse breakfast Rava Idli
+21 160 Veg maincourse dinner Veg Dum Biryani
+22 55 Veg snacks snacks Aloo Tikki
+23 115 Veg maincourse lunch Chana Masala
+24 60 Veg maincourse breakfast Medu Vada
+25 110 Veg maincourse dinner Mixed Vegetable Curry
+26 95 Veg maincourse lunch Rajma Chawal
+27 80 Veg dessert lunch Rava Kesari
+28 100 Veg maincourse dinner Kadai Paneer with Roti
+29 45 Veg snacks snacks Potato Wedges
+30 90 Veg dessert dinner Moong Dal Halwa
+31 70 Veg maincourse breakfast Upma
+32 130 Veg maincourse lunch Methi Malai Matar
+33 60 Veg dessert breakfast Jalebi
+34 85 Veg dessert dinner Badam Halwa
+35 90 Veg maincourse dinner Aloo Gobi with Paratha
+36 55 Veg snacks snacks Veg Spring Roll
+37 120 Veg maincourse dinner Malai Kofta with Naan
+38 75 Veg maincourse lunch Bhindi Masala
+39 65 Veg snacks snacks Cheese Balls
+40 50 Veg dessert snacks Mysore Pak

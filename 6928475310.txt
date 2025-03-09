@@ -1,0 +1,41 @@
+Yc5rLk9v NonVeg 6 11 11 14 16 17 19 23 Faasos
+1 179 NonVeg lunch Egg Rice
+2 150 Veg lunch Masala Rice
+3 100 Veg snacks SureCrisp Fries
+4 99 Veg snacks Cheesy Corn Salsa Wrap
+5 249 NonVeg dinner Malai Chicken Rice
+6 100 Veg dinner Paneer Salad Wrap
+7 200 NonVeg lunch Chicken Fried Rice
+8 175 Veg lunch Vegetable Pulao
+9 80 Veg snacks Potato Wedges
+10 120 NonVeg snacks Chicken Nuggets
+11 150 Veg maincourse breakfast Aloo Paratha with Curd
+12 180 NonVeg maincourse dinner Fish Curry with Rice
+13 130 Veg maincourse lunch Chana Masala with Rice
+14 90 Veg snacks Veg Spring Roll
+15 95 NonVeg starter lunch Tandoori Chicken
+16 140 Veg maincourse dinner Paneer Butter Masala with Naan
+17 75 Veg dessert lunch Rava Kesari
+18 160 NonVeg maincourse lunch Prawn Biryani
+19 85 Veg snacks Masala Papad
+20 120 NonVeg dinner Lamb Curry with Paratha
+21 65 Veg breakfast Upma with Coconut Chutney
+22 150 Veg snacks Paneer Tikka
+23 110 NonVeg starter dinner Chicken Tikka
+24 60 Veg dessert Jalebi
+25 140 Veg maincourse dinner Baingan Bharta with Roti
+26 100 Veg dessert Moong Dal Halwa
+27 90 NonVeg snacks Chicken Pakora
+28 70 Veg breakfast Idli with Sambar
+29 125 NonVeg maincourse lunch Egg Curry with Rice
+30 135 Veg lunch Methi Malai Matar
+31 55 Veg snacks Onion Pakoda
+32 115 NonVeg maincourse dinner Butter Chicken with Naan
+33 45 Veg breakfast Poha
+34 150 Veg maincourse lunch Rajma Chawal
+35 100 Veg snacks Hara Bhara Kabab
+36 200 NonVeg dinner Fish Tikka with Mint Chutney
+37 85 Veg dessert dinner Rasmalai
+38 60 Veg breakfast Medu Vada with Sambar
+39 90 Veg maincourse dinner Mixed Vegetable Curry with Rice
+40 130 NonVeg starter lunch Prawn 65

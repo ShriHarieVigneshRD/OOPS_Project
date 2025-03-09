@@ -1,0 +1,41 @@
+Hq9xLp5n NonVeg 6 10 11 14 16 17 18 23 Junior Kuppanna
+1 150 NonVeg maincourse breakfast Nattu Kozhi Chukka
+2 370 NonVeg maincourse lunch Chicken Biriyani
+3 490 NonVeg maincourse lunch Mutton Biriyani
+4 378 NonVeg snacks snacks Japan Chicken
+5 200 NonVeg snacks snacks Chicken Lollipop
+6 390 NonVeg starter dinner Chicken Pallipalayam
+7 400 NonVeg maincourse dinner Fish Curry 
+8 100 NonVeg starter lunch Chilli Chicken
+9 60 Veg maincourse breakfast Upma
+10 50 Veg maincourse lunch Curd Rice
+11 60 NonVeg maincourse dinner Parrota
+12 180 NonVeg starter lunch Prawn 65
+13 90 Veg maincourse breakfast Pongal
+14 220 NonVeg maincourse dinner Mutton Curry
+15 150 Veg starter snacks Paneer Tikka
+16 180 Veg maincourse lunch Veg Fried Rice
+17 200 NonVeg maincourse dinner Egg Kothu Parotta
+18 100 Veg snacks snacks Samosa
+19 250 NonVeg starter dinner Fish Tikka
+20 120 Veg maincourse breakfast Idli Vada Combo
+21 180 NonVeg starter lunch Tandoori Chicken
+22 140 Veg maincourse dinner Aloo Gobi Curry
+23 220 NonVeg maincourse lunch Crab Masala
+24 60 Veg maincourse breakfast Poha
+25 300 NonVeg maincourse dinner Prawn Biriyani
+26 50 Veg dessert lunch Gulab Jamun
+27 80 Veg dessert dinner Rasmalai
+28 100 Veg dessert dinner Basundi
+29 120 Veg dessert lunch Kulfi
+30 70 Veg dessert snacks Jalebi
+31 60 Veg dessert dinner Carrot Halwa
+32 90 Veg dessert lunch Kaju Katli
+33 110 Veg dessert dinner Chocolate Brownie
+34 130 Veg dessert dinner Moong Dal Halwa
+35 50 Veg dessert snacks Mysore Pak
+36 40 Veg dessert breakfast Kesari
+37 120 Veg dessert lunch Mango Pudding
+38 90 Veg dessert dinner Rasgulla
+39 100 Veg dessert lunch Shahi Tukda
+40 150 Veg dessert dinner Tiramisu

@@ -1,0 +1,7 @@
+Vw8xJk5y NonVeg 7 10 11 15 16 17 18 23 dkj
+1 50 Veg breakfast Idli
+2 333 NonVeg snacks ooo
+3 111 Veg dinner ppp
+4 40 NonVeg breakfast vada
+5 30 Veg breakfast Dosa
+6 100 Veg dinner Fried Rice

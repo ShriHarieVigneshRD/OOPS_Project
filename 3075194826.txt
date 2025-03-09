@@ -1,0 +1,41 @@
+Bw3xKp8j Veg 6 10 12 15 16 17 18 23 Madhura Bhavan
+1 25 Veg breakfast Parotta
+2 100 Veg lunch Tomato Rice
+3 65 Veg lunch Paneer 65
+4 130 Veg snacks Aloo Kulcha
+5 140 Veg snacks Paneer Kulcha
+6 149 Veg dinner Paneer Biriyani
+7 20 Veg dinner Mushroom Fried Rice
+8 120 Veg dinner Paneer Naan
+9 30 Veg breakfast Aloo Paratha
+10 40 Veg breakfast Poori Bhaji
+11 85 Veg lunch Veg Pulao
+12 90 Veg lunch Chana Masala
+13 75 Veg snacks Samosa
+14 60 Veg snacks Gobi 65
+15 45 Veg dinner Dal Tadka
+16 55 Veg lunch Vegetable Khichdi
+17 70 Veg snacks Onion Pakoda
+18 95 Veg dinner Palak Paneer
+19 50 Veg breakfast Upma
+20 130 Veg lunch Paneer Butter Masala
+21 80 Veg dinner Mixed Vegetable Curry
+22 65 Veg snacks Aloo Tikki
+23 45 Veg breakfast Idli
+24 60 Veg lunch Veg Korma
+25 110 Veg dinner Malai Kofta
+26 35 Veg snacks Veg Cutlet
+27 90 Veg lunch Rajma Chawal
+28 75 Veg dinner Bhindi Masala
+29 120 Veg dinner Paneer Tikka Masala
+30 85 Veg snacks Cheese Balls
+31 55 Veg breakfast Masala Dosa
+32 70 Veg lunch Methi Malai Matar
+33 100 Veg dinner Baingan Bharta
+34 60 Veg snacks Hara Bhara Kabab
+35 110 Veg dinner Aloo Gobi Curry
+36 50 Veg dessert lunch Gulab Jamun
+37 40 Veg dessert snacks Jalebi
+38 65 Veg dessert lunch Rava Kesari
+39 80 Veg dessert dinner Gajar Halwa
+40 100 Veg dessert dinner Moong Dal Halwa
