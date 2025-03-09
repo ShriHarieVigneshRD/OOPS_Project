@@ -3,6 +3,12 @@
 ## Overview
 The Food Ordering System is designed to streamline hotel operations by providing functionalities for customers and hotel owners. It includes features such as user registration, authentication, menu customization, and time slot management. The system ensures secure handling of user data through object-oriented programming principles.
 
+## Authors
+- CS23B1054
+- CS23B2033
+- CS23B2035
+- CS23B2036
+- CS23B2057
 
 ## System Components
 ### 1. Customer Management
@@ -16,6 +22,8 @@ The Food Ordering System is designed to streamline hotel operations by providing
 
 ## Flowchart Representation
 A flowchart is used to represent the interactions between customers, hotel owners, and the system.
+
+![Food Ordering System Flowchart](image.png)
 
 ## Features
 ### 1. File Handling
